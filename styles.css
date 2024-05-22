@@ -4,9 +4,23 @@
 
 h1 {
     font-size: 80px;
-    text-align: center;
+}
+#title {
+    border: 10px solid black;
+}
+#pizza {
+    margin: 3px;
+}
+#ice-cream {
+    margin: 3px;
+}
+#chicken {
+    margin: 3px;
+}
+.links {
+    border: 5px solid black;
 }
 body {
     text-align: center;
-    
+
 }
